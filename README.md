@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sujan321-oss
-- 👀 I’m interested in fucking
-- 🌱 I’m currently learning pronography
-- 💞️ I’m looking to collaborate on sexmate
-- 📫 How to reach me brazzers
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on google
+- 📫 How to reach google
 
 <!---
 sujan321-oss/sujan321-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
