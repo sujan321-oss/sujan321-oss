@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sujan321-oss
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on google
-- 📫 How to reach google
+- 👀 I’m interested in coding and web development
+- 🌱 I’m currently learning java and django on python
+
+
 
 <!---
 sujan321-oss/sujan321-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
