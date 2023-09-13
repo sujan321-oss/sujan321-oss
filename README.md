@@ -4,7 +4,7 @@
 - i have a great understanding of django HTML and CSS
 
   PROJECT LINK :
-  1> whatsapp chatanalyzer app (download the chat file from whatsapp and upload on it only .text file you can upload)
+  1> whatsapp chatanalyzer app (download the chat file from whatsapp and upload on it only .text file is acceptable)
   https://whatsappchatanalyzer.pythonanywhere.com/
 
   2>movie recommendation system
