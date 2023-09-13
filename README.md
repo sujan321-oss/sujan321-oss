@@ -2,7 +2,13 @@
 -  I’m interested in web development and machine learning 
 - currently i am learning machine learning 
 - i have a great understanding of django HTML and CSS
-- 
+
+  PROJECT LINK :
+  1> whatsapp chatanalyzer app (download the chat file from whatsapp and upload on it only .text file you can upload)
+  https://whatsappchatanalyzer.pythonanywhere.com/
+
+  2>movie recommendation system
+  https://khumapokharel.pythonanywhere.com/
 
 
 
