@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujan321-oss
 -  I’m interested in web development and machine learning 
 
-- i have a great understanding of django HTML and CSS
+- i have a great understanding of django HTML , CSS ,machine learning ,deep learning, NLP
 
   PROJECT LINK :
   1> whatsapp chatanalyzer app (download the chat file from whatsapp and upload on it only .text file is acceptable)
