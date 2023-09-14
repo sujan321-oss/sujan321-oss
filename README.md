@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujan321-oss
 -  I’m interested in web development and machine learning 
-- currently i am learning machine learning 
+
 - i have a great understanding of django HTML and CSS
 
   PROJECT LINK :
